@@ -1,2 +1,1 @@
-# renaalsd
-app
+Place your logo.png here.
